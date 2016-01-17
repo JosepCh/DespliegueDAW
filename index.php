@@ -5,7 +5,7 @@
 </head> 
 <body>
 
-<h1>Icono del Dia</h1>
+<h1>Si sale esto, la has cagado</h1>
 <h3>Hola internautas</h3>
 <img src="randomicon.php"/>
 
